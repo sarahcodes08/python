@@ -9,3 +9,10 @@ print("Remainder:", a % b)
 print("Exponent:", a ** b) #b is power of a 
 print("Floor Division:", a // b) #return integer value
 print("Using parenthesis:", a+(b-a)+b)
+print("Order of precedence:", a+b/a*b)
+
+#Order of operations
+#1. Parenthesis
+#2. Exponentiation
+#3. Multiplication and Division 
+#4. Addition and Subtraction
