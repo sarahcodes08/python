@@ -32,3 +32,12 @@ print(msg1)
 #2. \n : for new line and multiple others
 #3. """ """ : for big paragraph and multi line as well
 #
+#built-in functions
+print(msg1.lower())
+print(msg1.upper())
+print(msg1.strip())
+print(msg1.split())
+print(msg1.find('are'))
+print(msg1.replace('are', 'r'))
+print(msg1.startswith('M'))
+print(msg1.endswith('a'))
