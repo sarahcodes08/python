@@ -6,4 +6,14 @@ l_one = [1,2,3,4]
 l_two = [1,2,["three"],4]
 l_three = list((1,2,3,4))
 print(l_one[3])
-print(l_one[0:3]) #3rd element included
+print(l_one[0:3]) #(3rd element included) you can do slicing as well 
+#functions on lists
+a = [1,2,3]
+b = [4,5,6]
+c = a + b
+print(c)
+
+a.extend(b)
+a.append(7)
+a.pop()
+print(a)
