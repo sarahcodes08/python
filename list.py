@@ -12,8 +12,16 @@ a = [1,2,3]
 b = [4,5,6]
 c = a + b
 print(c)
-
+d = ['a', 'b', 'c']
 a.extend(b)
 a.append(7)
 a.pop()
+a.remove(2) 
+print(a.count(1))
+a.sort(reverse=True)
+d.sort(reverse=True)
+a.reverse()
+print(min(a))
+print(max(a))
 print(a)
+print(d)
