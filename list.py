@@ -29,3 +29,4 @@ print(d)
 e = ['a', 'b', 'c', 1,2,3]
 e[0] = 'z'
 print(e)
+#yall i need to speed up this
