@@ -32,3 +32,5 @@ print(e)
 #yall i need to speed up this
 #lists
 #hello to my susti
+#not really
+#pata nhi kitne din aur lagein gy isko
