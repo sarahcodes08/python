@@ -7,3 +7,4 @@ dict_a = {
 }
 print(dict_a)
 print(dict_a['key1'])
+print(dict_a.get('key5'))
