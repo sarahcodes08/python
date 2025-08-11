@@ -1,7 +1,7 @@
 #Boolean Data Type
 #two conditions; true and false
-#Comparison Operators
+#Comparison Operators &
 # ==, !=, >, <, >=, <=
 a = 1
 b = 1
-print(a is b) 
+print(a is b)
