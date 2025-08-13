@@ -3,14 +3,14 @@ a = [1,2,3,4,5,6,7,8,9]
 #that data type is iterable
 #and the function iter() will return an iterator
 
-# var_a = iter(a)
-# print(var_a)
-# print(next(var_a)) # Get the first element
-# print(next(var_a)) # Get the second element
-# print(next(var_a)) # Get the third element
-# print(next(var_a)) # Get the fourth element
-# t = next(var_a) + 2.5
-# print(t)
+var_a = iter(a)
+print(var_a)
+print(next(var_a)) # Get the first element
+print(next(var_a)) # Get the second element
+print(next(var_a)) # Get the third element
+print(next(var_a)) # Get the fourth element
+t = next(var_a) + 2.5
+print(t)
 #instead of next() we can use a for loop
 for var_a in a: #iter function var_a will be called for a
     print(var_a)
@@ -31,4 +31,6 @@ for i in range(0,10):
   print('------------------')
   for j in range(0,10):
     print(f'{j} * {i} = {j*i}')
+
+# Table of 0-10
     
