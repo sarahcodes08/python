@@ -27,6 +27,7 @@ for var_a in a: #iter function var_a will be called for a
 # 4. It is more flexible than a while loop.
 # 5. It is more powerful than a while loop.
 
+# an example of nested loop 
 for i in range(0,10):
   print('------------------')
   for j in range(0,10):
