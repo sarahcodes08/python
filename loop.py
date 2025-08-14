@@ -32,5 +32,5 @@ for i in range(0,10):
   for j in range(0,10):
     print(f'{j} * {i} = {j*i}')
 
-# Table of 0-10
+# Table of 0-10 wow amazing loop e.g nested loop
     
