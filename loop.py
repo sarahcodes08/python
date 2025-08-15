@@ -20,6 +20,7 @@ for var_a in a: #iter function var_a will be called for a
 # 3. It is used to iterate over the elements of a file.
 # 4. It is used to iterate over the keys and values of a dictionary.
 # 5. It is used to iterate over the characters of a string.
+
 # Benefits of using for loop:
 # 1. It is more readable and easier to understand than a while loop.
 # 2. It is less error-prone than a while loop.
@@ -33,5 +34,5 @@ for i in range(0,10):
   for j in range(0,10):
     print(f'{j} * {i} = {j*i}')
 
-# Table of 0-10
+# Table of 0-10 numbers
     
