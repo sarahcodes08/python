@@ -14,7 +14,7 @@ print(t)
 #instead of next() we can use a for loop
 for var_a in a: #iter function var_a will be called for a
     print(var_a)
-#uses of for loop
+# Uses of for loop in python
 # 1. It is used to iterate over a sequence (like a list, tuple, dictionary, set, or string) or other iterable objects.
 # 2. It is used to iterate over a range of numbers.
 # 3. It is used to iterate over the elements of a file.
