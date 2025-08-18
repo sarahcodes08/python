@@ -35,4 +35,6 @@ for i in range(0,10):
     print(f'{j} * {i} = {j*i}')
 
 # Table of 0-10 numbers
+
+# we slacking
     
