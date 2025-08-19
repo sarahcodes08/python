@@ -14,7 +14,11 @@ print(t)
 #instead of next() we can use a for loop
 for var_a in a: #iter function var_a will be called for a
     print(var_a)
+
 # Uses of for loop
+
+# Uses of for loop in python
+
 # 1. It is used to iterate over a sequence (like a list, tuple, dictionary, set, or string) or other iterable objects.
 # 2. It is used to iterate over a range of numbers.
 # 3. It is used to iterate over the elements of a file.
@@ -29,11 +33,16 @@ for var_a in a: #iter function var_a will be called for a
 # 5. It is more powerful than a while loop.
 
 
+
 # Table of 0-10 
+
+# an example of nested loop 
+
 for i in range(0,10):
   print('------------------')
   for j in range(0,10):
     print(f'{j} * {i} = {j*i}')
+
 
 # Sum of numbers using for loop
 numbers = [1,3,5,7,9,11,13,15,17,19]
@@ -144,3 +153,9 @@ for num in numbers:
 for i in range(2): 
   for j in range(2): 
     print(i + j)
+
+# Table of 0-10 numbers
+
+
+    
+
