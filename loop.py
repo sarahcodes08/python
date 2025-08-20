@@ -34,6 +34,9 @@ for var_a in a: #iter function var_a will be called for a
 
 
 
+
+# ho 
+
 # Table of 0-10 
 
 # an example of nested loop 
