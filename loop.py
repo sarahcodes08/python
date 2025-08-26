@@ -157,4 +157,4 @@ for i in range(2):
   for j in range(2): 
     print(i + j)
 
-# Tables of numbers from 0-10
+# Tables
