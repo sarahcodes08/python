@@ -151,8 +151,8 @@ sum = 0
 for num in numbers: 
   sum += num 
   print(sum)
-  
-  
+
+# Tables
 for i in range(2): 
   for j in range(2): 
     print(i + j)
