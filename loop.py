@@ -3,6 +3,7 @@ a = [1,2,3,4,5,6,7,8,9]
 # that data type is iterable
 # and the function iter() will return an iterator
 
+
 var_a = iter(a)
 print(var_a)
 print(next(var_a)) # Get the first element
